@@ -1,0 +1,182 @@
+{
+  "profile": {
+    "name": "소룡이",
+    "skills": ["한국어 교육", "한국 문화", "한국 예술"],
+    "language": "Korean (Native)",
+    "location": "New York, NY",
+    "preferredAreas": ["Queens", "Flushing", "Manhattan", "Brooklyn"]
+  },
+  "sources": {
+    "jobSites": [
+      {"name": "Indeed", "url": "https://www.indeed.com", "enabled": true},
+      {"name": "LinkedIn", "url": "https://www.linkedin.com/jobs", "enabled": true},
+      {"name": "ZipRecruiter", "url": "https://www.ziprecruiter.com", "enabled": true}
+    ],
+    "koreanMedia": [
+      {"name": "미주중앙일보", "url": "https://ktown.koreadaily.com/ad_job/recruit", "enabled": true},
+      {"name": "미주한국일보", "url": "https://www.koreatimes.com", "enabled": true}
+    ],
+    "education": [
+      {"name": "HigherEdJobs", "url": "https://www.higheredjobs.com", "enabled": true},
+      {"name": "SchoolSpring", "url": "https://www.schoolspring.com", "enabled": true}
+    ]
+  },
+  "searchKeywords": {
+    "english": [
+      "Korean language teacher",
+      "Korean instructor NYC",
+      "Korean tutor New York",
+      "Korean culture instructor",
+      "Korean art teacher",
+      "K-pop dance instructor",
+      "Korean heritage teacher",
+      "ESL Korean"
+    ],
+    "korean": [
+      "한국어 강사 뉴욕",
+      "한국문화 강사",
+      "한국어 교사"
+    ]
+  },
+  "targetAreas": ["Queens", "Manhattan", "Flushing", "Brooklyn", "Fort Lee NJ"],
+  "lastChecked": "2026-02-13T10:05:00+09:00",
+  "nextSourceIndex": 3,
+  "knownJobs": [
+    {
+      "id": "hills-learning-korean-teacher",
+      "title": "In Person Part-time Korean Teacher",
+      "company": "Hills Learning",
+      "location": "New York, NY 10176 (Manhattan, Fifth Avenue)",
+      "pay": "$27.50-$32.50/hr",
+      "type": "Part-time",
+      "source": "미주중앙일보",
+      "dateFound": "2026-02-13",
+      "datePosted": "2026-02-02",
+      "koreanPreferred": true,
+      "status": "recommended",
+      "jdPath": "korean-instructor-jobs/jd/2026-02-13/hills-learning-korean-teacher.md",
+      "url": "https://ktown.koreadaily.com/ad_job/recruitview?data=144597",
+      "contact": {
+        "phone": "212-784-0694",
+        "email": "recruit@hillslearning.com",
+        "website": "hillslearning.com"
+      },
+      "requirements": {
+        "education": "Bachelor's (Required)",
+        "experience": "1 year (Preferred)",
+        "language": "Korean (Required)"
+      },
+      "benefits": ["Employee discount", "Flexible schedule", "Parental leave", "Paid sick leave", "Paid training"],
+      "note": "🔥🔥 완벽한 한국어 강사 공고! 맨해튼 Fifth Ave, 시급 $32.50까지, 경력 무관!"
+    },
+    {
+      "id": "prestige-ta-bayside",
+      "title": "Teaching Assistant (TA)",
+      "company": "Prestige Institute",
+      "location": "Bayside, NY 11361 (Queens)",
+      "pay": "$17-$20/hr",
+      "type": "Part-time",
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "koreanPreferred": true,
+      "status": "recommended",
+      "note": "🔥 한국어+영어 선호! Queens 위치, 유연 스케줄"
+    },
+    {
+      "id": "kcs-smartphone-instructor-corona",
+      "title": "KOREAN DATA/Smartphone Instructor for Senior Center",
+      "company": "Korean Community Services",
+      "location": "Corona, NY 11368 (Queens)",
+      "pay": "협의",
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "koreanPreferred": true,
+      "status": "recommended",
+      "note": "🇰🇷 한인 시니어 대상, Queens!"
+    },
+    {
+      "id": "qm-academic-teacher-flushing",
+      "title": "Academic Teacher",
+      "company": "QM International Arts Center",
+      "location": "Flushing, NY 11358 (Queens)",
+      "pay": "협의",
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "status": "active"
+    },
+    {
+      "id": "afterschool-littleneck",
+      "title": "After School Teacher",
+      "company": "Afterschool, Little Neck",
+      "location": "Little Neck, NY 11362 (Queens)",
+      "pay": "협의",
+      "benefits": ["PTO", "Flexible schedule"],
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "status": "active"
+    },
+    {
+      "id": "quincy-esol-queens",
+      "title": "NYC Part Time ESOL Teacher",
+      "company": "Quincy Asian Resources",
+      "location": "Queens, NY 11368 (Hybrid)",
+      "pay": "협의",
+      "type": "Part-time, Hybrid",
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "status": "active"
+    },
+    {
+      "id": "korean-interpreter-bronx",
+      "title": "Korean Interpreter",
+      "company": "Pham Bell Global Language Services",
+      "location": "Bronx, NY",
+      "pay": "협의",
+      "benefits": ["Flexible schedule"],
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "koreanPreferred": true,
+      "status": "active"
+    },
+    {
+      "id": "bergen-adjunct-languages",
+      "title": "Adjunct Opportunities - World Languages",
+      "company": "Bergen Community College",
+      "location": "Paramus, NJ",
+      "pay": "협의",
+      "benefits": ["403(b)"],
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "status": "active",
+      "note": "대학 강의 (한국어 가능)"
+    },
+    {
+      "id": "kcs-program-coordinator-tenafly",
+      "title": "Program Coordinator",
+      "company": "Korean Community Services",
+      "location": "Tenafly, NJ",
+      "pay": "협의",
+      "benefits": ["401(k)", "Health insurance", "PTO"],
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "koreanPreferred": true,
+      "status": "active"
+    },
+    {
+      "id": "kcs-yoga-instructor-tenafly",
+      "title": "ELEMENTARY YOGA INSTRUCTOR (SUMMER ONLY)",
+      "company": "Korean Community Services",
+      "location": "Tenafly, NJ",
+      "pay": "협의",
+      "source": "Indeed",
+      "dateFound": "2026-02-12",
+      "status": "active"
+    }
+  ],
+  "stats": {
+    "totalFound": 10,
+    "nycJobs": 6,
+    "njJobs": 4,
+    "lastCheckTime": "2026-02-13T10:05:00+09:00"
+  }
+}
